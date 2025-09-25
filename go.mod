@@ -47,7 +47,6 @@ require (
 	github.com/peterbourgon/diskv v2.0.1+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/pterm/pterm v0.12.32-0.20211002183613-ada9ef6790c3
-	github.com/rancher-sandbox/gofilecache v0.0.0-20210330135715-becdeff5df15
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.8.1
 	github.com/theupdateframework/notary v0.7.0
@@ -120,7 +119,6 @@ require (
 	github.com/prometheus/common v0.44.0 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
